@@ -1,5 +1,4 @@
 package Q1;
-public class MainApp {
 
     public class Test {
         public static void main(String[] args) {
@@ -15,4 +14,3 @@ public class MainApp {
 
         }
     }
-}
